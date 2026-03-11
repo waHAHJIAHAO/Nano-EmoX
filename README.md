@@ -37,3 +37,7 @@ We train Nano-EmoX with a three-stage curriculum that gradually increases emotio
 - **Phase 3**: `xemo_phase4.yaml`
 
 This staged curriculum progressively strengthens the model’s perception, fusion, and reasoning over multimodal affective cues.
+
+### Performance
+<img src="merunibench.png" width="800" />
+<img src="avamerg.png" width="800" />
