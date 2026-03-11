@@ -26,15 +26,15 @@ Nano-EmoX supports six core tasks within one model:
 5. Emotion Reason Inference
 6. Empathic Response Generation
 
-### P2E Curriculum Learning (Three Phase)
+### P2E training framework (Three Phase)
 
-We train Nano-EmoX with a three-stage curriculum that gradually increases emotional intelligence:
+We train Nano-EmoX with a three-phase curriculum that gradually increases emotional intelligence:
 
 <img src="p2e-arch.png" width="800" />
 
-- **Phase 1**: `xemo_phase1.yaml` and `xemo_phase2.yaml` (modality alignment)
-- **Phase 2**: `xemo_phase3.yaml` (train fusion encoder)
-- **Phase 3**: `xemo_phase4.yaml`
+- **Phase 1**: config file: `xemo_phase1.yaml` and `xemo_phase2.yaml` (modality alignment)
+- **Phase 2**: config file: `xemo_phase3.yaml` (train fusion encoder)
+- **Phase 3**: config file: `xemo_phase4.yaml`
 
 This staged curriculum progressively strengthens the model’s perception, fusion, and reasoning over multimodal affective cues.
 
