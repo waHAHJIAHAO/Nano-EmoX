@@ -6,7 +6,7 @@
 
 ### Architecture Overview
 
-<img src=".assets/nanoemox-arch.png" width="800" />
+<img src="nanoemox-arch.png" width="800" />
 
 - **Visual Encoder**: a visual encoder (CLIP-Large) produces frame-level representations, followed by Q-Former, then a projection to the LLM hidden space.
 - **Audio Encoder**: an acoustic encoder (HuBERT-Large) is paired with an Q-Former and projected into the LLM hidden space.
@@ -30,7 +30,7 @@ Nano-EmoX supports six core tasks within one model:
 
 We train Nano-EmoX with a three-stage curriculum that gradually increases emotional intelligence:
 
-<img src="assets/p2e-arch.png" width="800" />
+<img src="p2e-arch.png" width="800" />
 
 - **Phase 1**: `xemo_phase1.yaml` and `xemo_phase2.yaml` (modality alignment)
 - **Phase 2**: `xemo_phase3.yaml` (train fusion encoder)
