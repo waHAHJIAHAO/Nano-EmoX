@@ -12,7 +12,7 @@
 - **Audio Encoder**: an acoustic encoder (HuBERT-Large) is paired with an Q-Former and projected into the LLM hidden space.
 - **Facial Encoder**: a facial encoder (FaceXFormer encoder only + temporal modeling) extracts face–aware features and maps them into the LLM space.
 - **Fusion Encoder**: It consists of three independent fusion experts and a gating network. Fusion encoder fuses video and audio features before injecting them into the LLM.
-- **LLM backbone**: a frozen causal LLM is adapted with lightweight LoRA layers for efficient fine-tuning.
+- **LLM backbone**: a frozen causal samll scale LM (Qwen-2.5-1.5B) is adapted with lightweight LoRA layers for efficient fine-tuning.
 - **Unified prompt injection**: modality tokens are replaced by learned embeddings so that all modalities align in the LLM embedding space.
 
 ### Unified Emotion Intelligence
