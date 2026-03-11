@@ -39,6 +39,11 @@ We train Nano-EmoX with a three-phase curriculum that gradually increases emotio
 This staged curriculum progressively strengthens the model’s perception, fusion, and reasoning over multimodal affective cues.
 
 ### Performance
+
 <img src="visualize.png" width="800" />
 <img src="merunibench.png" width="800" />
 <img src="avamerg.png" width="600" />
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
