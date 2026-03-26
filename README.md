@@ -1,4 +1,6 @@
-# ✨Nano-EmoX: Unifying Multimodal Emotional Intelligence from Perception to Empathy (CVPR2026)
+# ✨Nano-EmoX
+
+This is the official implement of CVPR2026 paper Nano-EmoX: Unifying Multimodal Emotional Intelligence from Perception to Empathy
 
 **Nano-EmoX** is first compact (2.2B) emotion intelligence videoLM. It integrates a pretrained LLM with modality-specific encoders and experts-based fusion encoder to handle a broad spectrum of affective tasks in one model. 
 
