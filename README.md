@@ -1,6 +1,23 @@
-# ✨Nano-EmoX
+<p align="center">
+  <h2 align="center">[CVPR 2026] Nano-EmoX: Unifying Multimodal Emotional Intelligence from Perception to Empathy
+</h2>
+    </br>
+        <a href="https://arxiv.org/pdf/2603.02123">
+        <img src='https://img.shields.io/badge/Paper-Arxiv-orange' alt='Paper PDF'></a>
+        <a href="https://huggingface.co/datasets/">
+        <img src='https://img.shields.io/badge/Dataset-HuggingFace-yellow' alt='Dataset'></a>
+        <a href="#">
+        <img src='https://img.shields.io/badge/Model-ModelScope-blue' alt='Model'></a>
 
+</p>
+</p>
 This is the official implement of CVPR2026 paper "Nano-EmoX: Unifying Multimodal Emotional Intelligence from Perception to Empathy"
+
+## Todo List
+
+- [✔] paper
+- [] training code
+- [] model weights
 
 **Nano-EmoX** is first compact (2.2B) emotion intelligence videoLM. It integrates a pretrained LLM with modality-specific encoders and experts-based fusion encoder to handle a broad spectrum of affective tasks in one model. 
 
