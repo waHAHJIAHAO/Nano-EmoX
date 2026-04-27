@@ -15,7 +15,7 @@
 ## Todo List
 
 - [x] paper
-- [ ] training code
+- [ ] training and model codes
 - [ ] model weights
 
 ## Unified Emotion Intelligence
