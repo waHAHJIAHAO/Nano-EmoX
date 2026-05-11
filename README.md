@@ -13,8 +13,8 @@
 
 ## Todo List
 
-- [x] paper
-- [x] model codes release
+- [x] release paper
+- [x] release project codes
 - [ ] training and evaluation scripts
 - [ ] model weights
 
