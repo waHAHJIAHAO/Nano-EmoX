@@ -39,10 +39,6 @@ We train Nano-EmoX with a three-phase curriculum that gradually increases emotio
 
 <img src="./assets/p2e-arch.png" width="800" />
 
-- **Phase 1**: config file: `xemo_phase1.yaml` and `xemo_phase2.yaml` (modality alignment)
-- **Phase 2**: config file: `xemo_phase3.yaml` (train fusion encoder)
-- **Phase 3**: config file: `xemo_phase4.yaml`
-
 This staged curriculum progressively strengthens the model’s perception, fusion, and reasoning over multimodal affective cues.
 
 ## Performance
@@ -59,6 +55,9 @@ This staged curriculum progressively strengthens the model’s perception, fusio
 - **For evaluation**
   
 ## Training
+- **Phase 1**: config file: `xemo_phase1.yaml` and `xemo_phase2.yaml` (modality alignment)
+- **Phase 2**: config file: `xemo_phase3.yaml` (train fusion encoder)
+- **Phase 3**: config file: `xemo_phase4.yaml`
 
 ## Evaluation
 
