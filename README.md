@@ -58,6 +58,30 @@ This staged curriculum progressively strengthens the model’s perception, fusio
 <img src="./assets/merunibench.png" width="800" />
 <img src="./assets/avamerg.png" width="600" />
 
+## Quick Start
+
+## Datasets
+
+- **For training**
+- **For evaluation**
+  
+## Training
+
+## Evaluation
+
+## Citation
+If this work has been helpful or inspiring to your research, please consider cite our article:
+
+```bibtex
+@InProceedings{Huang_2026_CVPR,
+    author    = {Huang, Jiahao and Lin, Fengyan and Yang, Xuechao and Feng, Chen and Zhu, Kexin and Yang, Xu and Chen, Zhide},
+    title     = {Nano-EmoX: Unifying Multimodal Emotional Intelligence from Perception to Empathy},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {22986-22997}
+}
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
