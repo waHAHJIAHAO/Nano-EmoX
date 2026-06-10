@@ -62,6 +62,10 @@ This staged curriculum progressively strengthens the model’s perception, fusio
 
 ## Evaluation
 
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Citation
 If this work has been helpful or inspiring to your research, please consider cite our article:
 
@@ -75,5 +79,3 @@ If this work has been helpful or inspiring to your research, please consider cit
     pages     = {22986-22997}
 }
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
