@@ -22,14 +22,7 @@
 
 our model is first compact (2.2B) emotion intelligence videoLM. It integrates a pretrained LLM with modality-specific encoders and experts-based fusion encoder to handle a broad spectrum of affective tasks in one model.
 
-Nano-EmoX supports six core tasks within one model:
-
-1. Multimodal Sentiment Analysis
-2. Multimodal Emotion Recognition
-3. Open-Vocabulary Multimodal Emotion Recognition
-4. Multimodal Intention Recognition
-5. Emotion Reason Inference
-6. Empathic Response Generation
+Nano-EmoX supports six core tasks within one model: 1), Multimodal Sentiment Analysis. 2), Multimodal Emotion Recognition. 3), Open-Vocabulary Multimodal Emotion Recognition. 4), Multimodal Intention Recognition. 5), Emotion Reason Inference. 6), Empathic Response Generation
 
 <img src="./assets/nanoemox-arch.png" width="800" />
 
@@ -83,5 +76,4 @@ If this work has been helpful or inspiring to your research, please consider cit
 }
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
