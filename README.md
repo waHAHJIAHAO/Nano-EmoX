@@ -55,9 +55,9 @@ This staged curriculum progressively strengthens the model’s perception, fusio
 - **For evaluation**
   
 ## Training
-- **Phase 1**: config file: `xemo_phase1.yaml` and `xemo_phase2.yaml` (modality alignment)
-- **Phase 2**: config file: `xemo_phase3.yaml` (train fusion encoder)
-- **Phase 3**: config file: `xemo_phase4.yaml`
+- **Phase 1**: config file: `phase1_1.yaml` and `phase1_2.yaml` (modality alignment)
+- **Phase 2**: config file: `phase2.yaml` (train fusion encoder)
+- **Phase 3**: config file: `phase3.yaml`
 
 ## Evaluation
 
