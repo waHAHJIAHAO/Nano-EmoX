@@ -22,10 +22,9 @@ from nano_emox.conversation.conversation_video import Conversation,SeparatorStyl
 from nano_emox.datasets.datasets.base_dataset import BaseDataset
 from nano_emox.processors.video_processor import ToTHWC, ToUint8, load_video, load_face
 from nano_emox.models.ImageBind.data import load_audio, transform_audio # 将上面的函数功能拆解为两个
-from toolkit.utils.functions import string_to_list
-import config
-
-from toolkit.utils.read_files import *
+from nano_emox.utils.functions import string_to_list
+from nano_emox import config
+from nano_emox.utils.read_files import *
 
 
 #############################################################

@@ -1,4 +1,4 @@
-import copy
+﻿import copy
 import einops
 import torch
 import torch.nn as nn
@@ -14,9 +14,7 @@ from nano_emox.models.encoder import *
 from nano_emox.models.faceXencoder import create_facial_encoder_fxformer
 from nano_emox.models.MeGraphAU.facial_encoder import create_facial_encoder
 from nano_emox.models.MeGraphAU.facial_encoder_insightface import create_facial_encoder_insightface
-import config
-
-
+from nano_emox import config
 @registry.register_model("nano_emox")
 class NanoEmoX(Blip2Base):
 

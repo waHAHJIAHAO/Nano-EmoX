@@ -19,7 +19,7 @@ from nano_emox.models.base_model import BaseModel
 from nano_emox.models.Qformer import BertConfig, BertLMHeadModel
 from nano_emox.models.eva_vit import create_eva_vit_g
 from transformers import AutoTokenizer, AutoModel, AutoFeatureExtractor, AutoImageProcessor, Wav2Vec2FeatureExtractor
-import config
+from nano_emox import config
 from nano_emox.models.blip2 import Blip2Base, disabled_train
 import einops
 

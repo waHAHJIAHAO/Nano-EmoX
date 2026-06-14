@@ -3,7 +3,7 @@ This is use for performance evaluation using EW-based metrics.
 The main code is draw from .//desktop//main_nano_emox.py
 '''
 
-import config
+from nano_emox import config
 from vllm import LLM, SamplingParams
 from transformers import AutoTokenizer
 
@@ -13,9 +13,9 @@ import tqdm
 import numpy as np
 from sklearn.metrics import f1_score, accuracy_score
 
-from toolkit.utils.read_files import *
-from toolkit.utils.qwen import *
-from toolkit.utils.functions import *
+from nano_emox.utils.read_files import *
+from nano_emox.utils.qwen import *
+from nano_emox.utils.functions import *
 from nano_emox.evaluation.wheel import *
 
 

@@ -1,0 +1,152 @@
+﻿## phase1训练音频编码器
+
+model:
+  arch: nano_emox
+  model_type: pretrain_vicuna
+
+  frozen_video_Qformer: True
+  frozen_audio_Qformer: False
+  frozen_multi_Qformer: True
+  frozen_multi_MoE: True
+  frozen_multi_multiscale: True
+  frozen_facial_encoder: True
+
+  frozen_audio_proj: False
+  frozen_video_proj: True
+  frozen_multi_llama_proj: True
+  frozen_facial_llama_proj: True
+  
+  frozen_llm: True
+
+  multi_fusion_type: multiscale # attention/qformer/densemoe/multiscale
+  video_fusion_type: qformer # qformer(default)/mean/attention
+  audio_fusion_type: qformer # qformer(default)/mean/attention
+  image_fusion_type: mean       # token(default)/mean
+
+  # Omni-Affect
+  #ckpt: "/home/lab00/user/AffectGPT/AffectGPT/models/ckpt/checkpoint_000030_loss_0.602.pth"
+  ckpt: 
+  ckpt_2:
+  
+  # target_modules 在代码中自动设置为所有注意力和MLP层
+
+  # Other pre-trained models
+  llama_model: "Qwen25"            # Qwen25
+  acoustic_encoder: "HUBERT_LARGE_Plus" # HUBERT_LARGE / HUBERT_LARGE_Plus
+  visual_encoder: "CLIP_VIT_LARGE_Plus" # CLIP_VIT_LARGE / CLIP_VIT_LARGE_Plus
+
+  # LoRA configuration
+  lora_r: 16        
+  lora_alpha: 32      
+  lora_dropout: 0.05 
+
+  # token num of modality
+  num_audio_query_token: 32 # 32 ，phase2 直接OOM，但是发现只要不做长推理，理论上是可以设置成32token的
+  num_video_query_token: 32
+  num_multi_query_token: 1
+  num_facial_query_token: 4
+  num_image_query_token: 1
+
+  max_length: 1024
+
+  vis_processor:
+    train:
+      name: "alpro_video_train"
+      n_frms: 8
+      image_size: 224
+  text_processor:
+    train:
+      name: "blip_caption"
+  img_processor:
+    train:
+      name: "blip2_image_train"
+      image_size: 224
+  
+
+datasets:  # 着重训练情感线索提取任务、并且对情感识别任务进行预习
+# modality ablation:
+# ---------音频、视频、文本面部------
+# faceframe (face, video, audio, text) | face (face, audio, text) | frame  (video, audio, text)
+# ---------融合、音频、视频、文本面部-----------------
+# multiframe_audio_frame_text (multi, video, audio, text)
+# multiface_audio_face_frame_text (multi, frame, face, audio, text)
+  m3ed:
+    data_type: audio
+    face_or_frame: 'audio_text' 
+    label_type: 'emotion_recognition'
+
+  crema:
+    data_type: audio
+    face_or_frame: 'audio_text' 
+    label_type: 'emotion_recognition'
+
+
+run:
+  task: video_text_pretrain
+
+  # optimizer CAdamW
+  lr_sched: "linear_warmup_cosine_lr"
+  init_lr: 3e-4 # 5e-5
+  min_lr: 1e-4 # 1e-5
+  warmup_lr: 1e-6 #  1e-6
+  weight_decay: 0.05
+
+  max_epoch: 3 
+  iters_per_epoch: 5000 
+  warmup_steps: 5000    
+
+  batch_size_train: 3 # 3 # 这是单一gpu的batch_size；实际batch_size = gpu_num * batch_size_train
+  batch_size_eval:  3 # 3 # 这是单一gpu的batch_size；实际batch_size = gpu_num * batch_size_train
+
+  seed: 42
+  num_workers: 2 # 1 2 4
+
+  # auto mixed precision, multiplication (fp16), addition (fp32)
+  amp: True 
+  # continue training from resume_ckpt_path "/path/ckpt" or null
+  resume_ckpt_path: 
+
+  evaluate: False 
+  train_splits: ["train"]
+
+  device: "cuda" 
+  world_size: 1
+  dist_url: "env://"
+  distributed: True
+
+
+# 这部分放的是 inference 相关的
+inference:
+
+  task: video_text_pretrain
+
+  vis_processor:
+    train:
+      name: "alpro_video_eval"
+      n_frms: 8
+      image_size: 224
+  text_processor:
+    train:
+      name: "blip_caption"
+  img_processor:
+    train:
+      name: "blip2_image_eval"
+      image_size: 224
+
+  ######################################################
+  # NOTE: 为了避免出错，设置为与 emercoarse 或者 mer2023 一致就可以
+  face_or_frame: 'emercoarse'
+  ######################################################
+
+  base_root: 'output/results'
+  
+  # inference ckpt
+  # ckpt_root: "output/nano_emox_mercaption_outputhybird/nano_emox_mercaption_outputhybird_20250711175"
+  # ckpt_name: "checkpoint_000041_loss_0.934.pth"
+  ckpt_root: 
+  ckpt_name: 
+  test_epoch: xxx # 指定跑哪个轮次 默认xxx
+  test_epochs: xxx-xxx # 指定跑一批轮次
+  skip_epoch: 1 # only process on epoch%10=0 的部分 ckpt_3
+  gpu: 0
+

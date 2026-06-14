@@ -23,8 +23,8 @@ from nano_emox.datasets.datasets.base_dataset import BaseDataset
 from nano_emox.processors.video_processor import ToTHWC, ToUint8, load_video, load_face
 from nano_emox.models.ImageBind.data import load_audio, transform_audio # 将上面的函数功能拆解为两个
 
-import config
-from toolkit.utils.functions import *
+from nano_emox import config
+from nano_emox.utils.functions import *
 
 # 要让模型同时支持audio, video, text三部分输入信息才行
 class MER2024_Dataset(BaseDataset):

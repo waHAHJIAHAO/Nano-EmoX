@@ -23,8 +23,7 @@ from nano_emox.datasets.datasets.base_dataset import BaseDataset
 from nano_emox.processors.video_processor import ToTHWC, ToUint8, load_video, load_face
 from nano_emox.models.ImageBind.data import load_audio, transform_audio # 将上面的函数功能拆解为两个
 
-import config
-
+from nano_emox import config
 emos = ['anger', 'joy', 'sadness', 'neutral', 'disgust', 'fear', 'surprise']
 emo2idx, idx2emo = {}, {}
 for ii, emo in enumerate(emos):

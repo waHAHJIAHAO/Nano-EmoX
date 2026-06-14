@@ -22,9 +22,8 @@ from nano_emox.datasets.datasets.base_dataset import BaseDataset
 from nano_emox.processors.video_processor import ToTHWC, ToUint8, load_video, load_face
 from nano_emox.models.ImageBind.data import load_audio, transform_audio # 将一个函数拆解为两个函数
 
-import config
-
-from toolkit.utils.functions import func_discrte_label_distribution
+from nano_emox import config
+from nano_emox.utils.functions import func_discrte_label_distribution
 
 
 emos = ['happy', 'sad', 'neutral', 'anger']

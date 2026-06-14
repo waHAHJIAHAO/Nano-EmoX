@@ -24,9 +24,7 @@ from nano_emox.models.base_model import BaseModel
 from nano_emox.models.Qformer import BertConfig, BertLMHeadModel
 from nano_emox.models.eva_vit import create_eva_vit_g
 from transformers import AutoTokenizer
-import config
-
-
+from nano_emox import config
 ## 在 Nano-EmoX 中，每个 LLM 都需要自己的 'eos', 'pad', 'bos'；否则模型会报错
 def load_tokenizer_from_LLM(model_name):
     if model_name in ['Baichuan2']:

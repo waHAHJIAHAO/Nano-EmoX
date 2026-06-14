@@ -8,9 +8,7 @@ from typing import Dict, List, Optional
 import torch
 
 from nano_emox.datasets.datasets.base_dataset import BaseDataset
-import config
-
-
+from nano_emox import config
 class AvaMERG_Dataset(BaseDataset):
     def __init__(self, vis_processor=None, txt_processor=None, img_processor=None,
                  dataset_cfg=None, model_cfg=None):

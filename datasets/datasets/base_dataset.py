@@ -1,4 +1,4 @@
-import os
+﻿import os
 import tqdm
 import copy
 import random
@@ -17,8 +17,7 @@ import numpy as np
 import transformers
 from nano_emox.processors.video_processor import load_video, load_face
 from nano_emox.models.ImageBind.data import load_audio, transform_audio
-import config
-
+from nano_emox import config
 class BaseDataset():
     def __init__(self, vis_processor=None, txt_processor=None, img_processor=None, model_cfg=None, dataset_cfg=None,
                 vis_root=None, ann_path=None, wav_root=None, face_root=None, img_root=None):

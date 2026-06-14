@@ -23,8 +23,7 @@ from nano_emox.datasets.datasets.base_dataset import BaseDataset
 from nano_emox.processors.video_processor import ToTHWC, ToUint8, load_video, load_face
 from nano_emox.models.ImageBind.data import load_audio, transform_audio # 将上面的函数功能拆解为两个
 
-import config
-
+from nano_emox import config
 # 要让模型同时支持audio, video, text三部分输入信息才行
 class SIMS_Dataset(BaseDataset):
     def __init__(self, vis_processor=None, txt_processor=None, img_processor=None,

@@ -5,9 +5,7 @@ from PIL import Image
 import pandas as pd
 from decord import VideoReader
 from nano_emox.datasets.datasets.base_dataset import BaseDataset
-import config
-
-
+from nano_emox import config
 class EMER_Dataset(BaseDataset):
     def __init__(self, vis_processor=None, txt_processor=None, img_processor=None, 
                  dataset_cfg=None, model_cfg=None):

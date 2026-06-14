@@ -15,7 +15,7 @@
 
 - [x] release paper
 - [x] release project codes
-- [ ] training and evaluation scripts
+- [x] training and evaluation scripts
 - [ ] model weights
 
 ## Unified Emotion Intelligence
@@ -49,23 +49,90 @@ This staged curriculum progressively strengthens the model’s perception, fusio
 
 ## Quick Start
 
-## Datasets
+### Environment Installation
 
-- **For training**
-- **For evaluation**
-  
-## Training
-- **Phase 1**: config file: `phase1_1.yaml` and `phase1_2.yaml` (modality alignment)
-- **Phase 2**: config file: `phase2.yaml` (train fusion encoder)
-- **Phase 3**: config file: `phase3.yaml`
+```bash
+conda env create -f environment.yml
+conda activate nanoemox
+```
 
-## Evaluation
+### Model Weights
 
+| Model Name                                                                          |   Model Type   |
+| :---------------------------------------------------------------------------------- | :------------: |
+| [clip-vit-large-patch14](https://huggingface.co/openai/clip-vit-large-patch14)      | Visual Encoder |
+| [chinese-hubert-large](https://huggingface.co/TencentGameMate/chinese-hubert-large) |  Audio Encoder |
+| [faceformer](https://huggingface.co/kartiknarayan/facexformer)                      | Facial Encoder |
+| [Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)          |       LLM      |
+| [Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)              |       LLM      |
+
+### Datasets
+
+- **For training**:
+  - [MER-Caption+](https://github.com/zeroQiaoba/AffectGPT): Large-scale descriptive emotion dataset with 115K samples and 2K+ fine-grained emotion categories
+  - [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D): Crowd-sourced emotional multimodal actors dataset with 7,442 clips (IEEE TAC 2014)
+  - [M3ED](https://github.com/AIM3-RUC/RUCM3ED): Multi-modal multi-scene multi-label emotional dialogue dataset in Chinese (ACL 2022)
+  - [CAER](https://caer-dataset.github.io/): Context-aware emotion recognition dataset with 13K+ annotated videos (ICCV 2019)
+  - [FERV39k](https://github.com/wangyanckxx/FERV39k): Large-scale multi-scene dataset for dynamic facial expression recognition in videos (CVPR 2022)
+  - [MIntRec](https://github.com/thuiar/MIntRec): Multimodal intent recognition dataset (ACM MM 2022)
+  - [MIntRec2.0](https://github.com/thuiar/MIntRec2.0): Large-scale multimodal intent dataset with 15K samples and 30 intent classes (ICLR 2024)
+  - [AvaMERG](https://avamerg.github.io/): Avatar-based multimodal empathetic response generation dataset (WWW 2025)
+  Place training data under `data/` directory.
+- **For evaluation**: Benchmarks from [MER-UniBench](https://github.com/zeroQiaoba/AffectGPT), including:
+  - MER2023, MER2024, MELD, IEMOCAP, CMU-MOSI, CMU-MOSEI, SIMS, SIMSv2 (emotion recognition & sentiment analysis)
+  - [MIntRec](https://github.com/thuiar/MIntRec), [MIntRec2.0](https://github.com/thuiar/MIntRec2.0) (multimodal intention recognition)
+  - [AvaMERG](https://avamerg.github.io/) (multimodal empathetic response generation)
+
+### Training
+
+- **Phase 1**: Modality alignment
+  ```bash
+  CUDA_VISIBLE_DEVICES=0 python -u train.py --cfg-path=configs/phase1_1.yaml
+  CUDA_VISIBLE_DEVICES=0 python -u train.py --cfg-path=configs/phase1_2.yaml
+  ```
+- **Phase 2**: Train fusion encoder
+  ```bash
+  CUDA_VISIBLE_DEVICES=0 python -u train.py --cfg-path=configs/phase2.yaml
+  ```
+- **Phase 3**: End-to-end fine-tuning
+  ```bash
+  CUDA_VISIBLE_DEVICES=0 python -u train.py --cfg-path=configs/phase3.yaml
+  ```
+
+### Inference
+
+- **Inference on AVAMERG**:
+  ```bash
+  CUDA_VISIBLE_DEVICES=1 python -u inference_hybird.py \
+    --zeroshot --dataset='avamerg' \
+    --cfg-path=configs/phase3.yaml \
+    --options "inference.test_epochs=30-60" "inference.skip_epoch=5" \
+    --outside_face_or_frame
+  ```
+- **Inference on EMER (OV-MERD)** with emotion reason inference:
+  ```bash
+  CUDA_VISIBLE_DEVICES=0 python -u inference_hybird.py \
+    --zeroshot --dataset='emer' \
+    --cfg-path=configs/phase3.yaml \
+    --options "inference.test_epochs=55-60" \
+    --outside_face_or_frame multiface_audio_face_frame_text \
+    --emotion_reason_inference
+  ```
+
+### Evaluation
+
+Specify the config file in `evaluation-scoreonly.py` to select the model for evaluation. It will automatically evaluate the inference results with the latest timestamp.
+
+```bash
+CUDA_VISIBLE_DEVICES=0 python -u evaluation-scoreonly.py
+```
 
 ## License
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Citation
+
 If this work has been helpful or inspiring to your research, please consider cite our article:
 
 ```bibtex
@@ -77,4 +144,6 @@ If this work has been helpful or inspiring to your research, please consider cit
     year      = {2026},
     pages     = {22986-22997}
 }
+
+```
 

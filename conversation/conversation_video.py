@@ -14,8 +14,7 @@ from nano_emox.processors import Blip2ImageEvalProcessor
 from nano_emox.processors.video_processor import ToTHWC, ToUint8, load_video, load_face
 from nano_emox.models.ImageBind.data import load_audio, transform_audio
 from nano_emox.datasets.builders.image_text_pair_builder import *
-import config
-
+from nano_emox import config
 class SeparatorStyle(Enum):
     """Different separator style."""
     SINGLE = auto()

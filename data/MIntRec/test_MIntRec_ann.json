@@ -1,0 +1,6677 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you're gonna go back and work on that register"
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E04_70.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "corned beef and cabbage are 20% off."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_121.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm not really that happy with you either."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E13_377.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "don't be stingy with the squirts."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_525.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "don't worry, sandra saw it and she didn't say anything."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E04_158.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you guys are the best. i love you all."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E14_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "what? wait, no, no."
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_192.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, how's it going?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E03_437.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah. yeah. this is definitely overboard."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E11_270.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "god, i can't take it!"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E04_216.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "amy, i need to report an employee theft."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_230.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "don't worry about it."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E07_424.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thank you."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E21_95.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thanks."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E02_526.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this lipstick is stay all day"
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_111.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm sorry."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E04_123.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm gonna check on gerald, see if he's done crying in the men's room."
+      },
+      {
+        "role": "assistant",
+        "content": "Taunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_523.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, and you wouldn't give me the day off to skype with my boyfriend."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_23.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, guys. having fun?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E14_185.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no, you guys don't have to come with me."
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_176.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "great. let's get back to work."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_41.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sorry, i got caught up in the moment."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E20_440.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "she can't stand that i have authority now"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_244.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i think we should probably hear a few more, uh, female voices."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_426.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, well, thanks."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E07_576.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you've gone power mad."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E03_551.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i don't even know who you're thinking of."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E16_387.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "amy, sorry to interrupt"
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_39.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "why shouldn't we have a debate?"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E03_481.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "wait, it's- hey, stop... stop!"
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_168.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i would give jonah a lap dance in a second"
+      },
+      {
+        "role": "assistant",
+        "content": "Joke"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E03_436.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "cheyenne, give her the axe."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_243.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "next order of business,we're going to be holding an employee costume competition today."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E04_42.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "that's past the property line."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E07_535.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "bo's mom calls, like, all the time."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E02_159.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "to award the golden vest..."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E03_165.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no, i'm- i'm gonna make him look good."
+      },
+      {
+        "role": "assistant",
+        "content": "Oppose"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E02_43.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, but i don't think anyone should have that much power."
+      },
+      {
+        "role": "assistant",
+        "content": "Oppose"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_546.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i 'm just saying that you should tell garrett"
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E10_414.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it's a pipe organ."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "that's tommy. he's lead organizer, total badass."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_110.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thank you so much."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E02_522.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "dina's right, you don't know fashion."
+      },
+      {
+        "role": "assistant",
+        "content": "Taunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E13_124.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, yeah, she's great."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E06_114.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this pops  tony danza brand popcorn cartridges only."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_113.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "'cause then i could hit on this bodacious babe."
+      },
+      {
+        "role": "assistant",
+        "content": "Joke"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E05_216.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you need to go back up to her and tell her"
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E14_307.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, hey. dina, what's up?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E08_109.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "why are you telling people that i'm  lying like a syrian ?"
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E08_430.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "anyway, zephra also asked me to set up a video conference"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_185.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this is a great debate for another time."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_21.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "we have, and we want to apologize."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_440.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "we just solved our first business crisis."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E09_222.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "so thank you all so much for my gifts."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E02_507.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "uh, no, that definitely wasn't me."
+      },
+      {
+        "role": "assistant",
+        "content": "Oppose"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_64.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "carol and justine, i'm moving you to school supplies."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E01_96.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "but i need you to go empty the rat traps."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E07_268.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "leading scientist admits earth is flat."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E09_360.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i really appreciate jerusha watching parker."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_510.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thanks."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i am so sorry"
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_556.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "jonah, i don't feel you were fair to me--"
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E03_360.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, she is the devil."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E11_120.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you are bright. your numbers are great."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_510.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, hey, dina."
+      },
+      {
+        "role": "assistant",
+        "content": "Greet"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_587.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, you don't have to be ashamed."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_221.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "now, i'm gonna be a little busy."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_22.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "and this is the break room."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_228.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i was just, um...i'm sorry."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E10_169.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it couldn't hurt to shake things up a little bit here."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E03_150.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "maybe st. louis finally has a female serial killer."
+      },
+      {
+        "role": "assistant",
+        "content": "Joke"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_31.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "one-  it's a cereal bar!"
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_26.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "take one whack, all right?"
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_245.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "look, all i'm saying is that you don't have to worry"
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_236.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i am going to sit in traffic for 45 minutes and return this."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E07_287.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "amy, why don't you be the manager, and you're gonna talk to cheyenne about her repeated absences."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E10_332.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i can just take off."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E20_391.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, carol. welcome back."
+      },
+      {
+        "role": "assistant",
+        "content": "Greet"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_457.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "come on, it wasn't that bad."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E17_170.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, those babies look great."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_536.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you knocked over that cone back there, dog--i want a rematch."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E02_440.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "so, girl, how is your day going?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_227.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "maybe, instead, we should make them feel"
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_328.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "okay, it doesn't matter."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_351.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, and i said how mateo's always serving up the tea, like when he told that lost little girl because her mommy was hot trash."
+      },
+      {
+        "role": "assistant",
+        "content": "Joke"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E02_97.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "but you are coming on way too strong"
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_285.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey! just coming by to say hey."
+      },
+      {
+        "role": "assistant",
+        "content": "Greet"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_491.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'll make sure to get the rest of those boxes."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_429.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no, no, it's- it's fine, it's fine."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_82.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "but i can't forgive myself for leaving you for it."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_281.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm already three orders behind!"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_196.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sorry, i've just been feeling a little down lately."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E04_164.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i probably should've led with that, but you just kept talking and talking about how great you're doing."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_397.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this place is crawling with raccoons."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E12_156.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey."
+      },
+      {
+        "role": "assistant",
+        "content": "Greet"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E01_194.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah."
+      },
+      {
+        "role": "assistant",
+        "content": "Agree"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_447.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, yes, thank you."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E08_335.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah. yeah, i would say that."
+      },
+      {
+        "role": "assistant",
+        "content": "Agree"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_292.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "carol, you can probably just go start your shift now."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E10_26.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sucks."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_591.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "so how's your toast coming?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E14_76.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "well, it affects my work."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_401.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "how you doing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E20_417.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sorry i'm being so insensitive."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_279.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i just had a really hard year."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_481.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no, those are yesterday's donuts."
+      },
+      {
+        "role": "assistant",
+        "content": "Oppose"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E02_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "the guy's a monster."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E10_506.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "mateo, give him his gift card."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_304.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "corporate is asking us to run everybody through e-verify, and there's a bit of a problem."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E08_50.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "totally. sounds great."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_134.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, we have a problem."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E04_309.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no, ken, that's my car. that's the managers spot."
+      },
+      {
+        "role": "assistant",
+        "content": "Oppose"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E06_42.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "foul on the play!"
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_230.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "please gather in the break room"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_194.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "let's not use the word  crazy."
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_165.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "then they shouldn't have started talking trash about us."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E11_416.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "we should just take it from the top."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_500.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, man, don't touch my tummy!"
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_103.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thank you for coming."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E21_143.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hannah, can you update the sim card on the robot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ask for help"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E10_436.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "and here's the guy we have to thank."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E05_388.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i better go tell her."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_470.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, hey, guys, i don't know if you heard, but sandra's cat died yesterday"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E06_575.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "that's a great idea. oh, my--"
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E02_272.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "close. they're supercloud step trackers."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E11_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i think jerry should have ended up with carol!"
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E04_532.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it looked kind of like an inside-out otter."
+      },
+      {
+        "role": "assistant",
+        "content": "Joke"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E04_577.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "please, i should be thanking you."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_571.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "and he's going to be taking over for glenn as manager."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E14_277.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i did, that was awesome."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E10_476.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sorry, i meant to say that i also have"
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_551.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i got a meeting--party."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E05_487.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "connie, i love that dress."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E17_113.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "fast as lightning, but sharper."
+      },
+      {
+        "role": "assistant",
+        "content": "Flaunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_332.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "jonah and amy are at each other's throats."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E03_292.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "a teenager bought 144 cans of chafing fuel"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_339.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "never mind."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_289.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "might have everybody a little bit on edge, but i mean, everybody gets that you guys matter. we're all good."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_308.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "maybe we should humanize it."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_215.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "there, see, was that so hard?"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E16_534.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thanks, that's comforting."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E04_574.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i, um, can type 100 words per minute."
+      },
+      {
+        "role": "assistant",
+        "content": "Flaunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_208.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "what up, dave, is that i asked you hours ago  to assemble the turtle wax endcap, and it's still not done."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_354.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "can you back me up here, please?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ask for help"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_61.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, maya's here."
+      },
+      {
+        "role": "assistant",
+        "content": "Greet"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_23.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, i think i'm gonna head to my car"
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_361.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "just tell 'em to take it down and get back to work."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_321.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm, uh, sorry about the mess."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_570.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, thank you for watching her."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E10_528.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, nothing. just having a little thing at my place."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_145.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thanks, amy."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_344.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "ah, sand--sandra, i am gonna have you set up the display today."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you sure i can't get you a drink?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E14_419.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sorry. text from dina."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_175.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "have you guys worked things out?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_439.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "she doesn't want us!"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E02_181.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you guys should file a complaint with the company."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_160.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i thought you were, but then they started following me around; they started searching my stuff."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_440.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "anyway, dina i can't go this year"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E08_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "they looked great."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_172.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sandra, come on. let's go."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_482.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, sandra, this order just says  pot."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_102.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi, uh, i'm brian, by the way. i'm dina's boyfriend."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E20_527.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, yeah, definitely."
+      },
+      {
+        "role": "assistant",
+        "content": "Agree"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_85.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "we quit telling you weeks ago because you're management."
+      },
+      {
+        "role": "assistant",
+        "content": "Taunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_68.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "my name is dina fox, and my goal here today is"
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_162.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "and i thought it would be the same, but it's not!"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E13_225.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i think i've won her over."
+      },
+      {
+        "role": "assistant",
+        "content": "Flaunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_390.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "but it's not really your fault."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E08_542.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thank you."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E07_388.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i thought it was screaming, but i guess i was silent, because you muted me. you took away my voice."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_297.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i can do impressions too."
+      },
+      {
+        "role": "assistant",
+        "content": "Joke"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E03_456.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "who wore it best, and the winner gets..."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E04_45.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "new policy. starting now, there will be absolutely no personal talk on the floor."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E04_252.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you stole jerry from me."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thank you. you know, kelly"
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_409.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "we should just send justine home, right?"
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E01_282.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "so, look, i think it's great you're out here"
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_158.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "honestly, really great"
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_387.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "um, georgia is kind of a legend."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_89.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm just gonna hand out shift assignments"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E01_482.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "duh. i'm sorry, mateo."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_180.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "their beauty standers are way lower"
+      },
+      {
+        "role": "assistant",
+        "content": "Taunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_370.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hm. eugene, could you get those boxes off from the top shelf, and take them to the back?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ask for help"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_122.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "the colors are packaged so you know they go together."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_249.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, yeah, you're right. you're right."
+      },
+      {
+        "role": "assistant",
+        "content": "Agree"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E02_80.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this sucks."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_572.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "their tablets barely hold a charge."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E09_308.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "great. awesome."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_128.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "so starting now, if anybody buys one of these without a warning and they die, we're liable."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_331.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "okay."
+      },
+      {
+        "role": "assistant",
+        "content": "Agree"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_161.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "that long. what have you been up to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E07_372.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "is everything okay?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_294.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it's fine, i'm just gonna put on my sweet and innocent voice, and bam, they won't even know what they're confessing to."
+      },
+      {
+        "role": "assistant",
+        "content": "Flaunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E02_249.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "how's the peeing going?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_389.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, that is wonderful."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E21_66.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "uh, i'm sorry."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_227.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "but i think it might be easier if you just wrote it down."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E05_192.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "kaluiokalani sounds made-up. anyway, just tell him i'm dead."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_176.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "why can't i just delete the registry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E02_183.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm sorry, marcus."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E07_589.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "huh, you know, that's a good point."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_530.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "all you have to do today is hand out these nifty care packages to the holloway house women's shelter"
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "honestly, you're- you're really beautiful."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E06_41.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i did. i did. i blew it."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_468.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you don't need to. no."
+      },
+      {
+        "role": "assistant",
+        "content": "Oppose"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "garrett's like a really nice guy and funny and cute."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E10_396.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "the governor shut down all indoor dining."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E01_105.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "good morning, store 1217."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "excuse me, do you know anything about drills?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ask for help"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E07_244.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "okay, anyway, i need to get a head count so i know who's coming."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E16_24.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, so i just wanted to apologize"
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E02_246.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "not a refugee, like you. knock on wood."
+      },
+      {
+        "role": "assistant",
+        "content": "Taunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E08_266.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "she threw a mustard jar at me. it left a bruise... on my thigh."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E03_389.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "and we thought of you"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E07_333.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "beautiful."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_534.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "both jonah and cheyenne wanna be floor supervisor."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E03_219.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "but i thought we'd make a list of the other issues corporate needs to address."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E05_167.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this is a map of the night stars over st. louis where we met."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_453.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i don't think that's what i said at all."
+      },
+      {
+        "role": "assistant",
+        "content": "Oppose"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_366.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "she's a real grumplestiltskin."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E16_398.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, garrett."
+      },
+      {
+        "role": "assistant",
+        "content": "Greet"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_304.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "okay, let's start by hearing everybody's work experience."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_190.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i guess it's defective, just like the two of you!"
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E06_466.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "just say that you were with bo all night last thursday."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_139.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you look good and you better get your prize"
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_473.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it was a...anniversary present for my wife"
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E07_160.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "two babies enter, one baby leaves."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_513.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "ah mateo, that's awesome!"
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_169.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "ladies, this is the embalming conference."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E10_28.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yours was just, like, attitude, which is fine."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E09_384.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "we've got a really exciting covid announcement."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E06_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "if you could just put all the raw footage on there."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E17_472.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "they don't even have to pay for their aroma-therapy diffusers. how is that fair?"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E08_510.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it's not that bad."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_250.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "okay, fine, whatever. let's just go."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_183.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "girl, don't be so hard up on yourself, okay? i'm sure it's not nearly as bad as you--."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E13_227.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thank you, glenn."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_77.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "she was great. and funny."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E06_313.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you first, justine."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_192.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "he's in a handball league, he had a deaf girlfriend"
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E09_146.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "well, i mean, you almost made me kill your cat."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm gonna pass out the tomatoes."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_430.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "that squeaks. that's what squirrels do."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_210.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this is too much pressure."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E16_114.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "and actually,maybe you could talk to him about sex and stuff."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E03_90.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "well, amy is at the eye doctor."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E21_119.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i gotta go tag in."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E21_197.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you just throw it in a cart like a sack of margarine."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E10_217.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "nobody's getting fired. get out of your head."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "stop, please."
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E13_85.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "that's good advice."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_397.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i know you're lying!"
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E21_199.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "and i was wondering if maybe you'd be willing to write a letter of recommendation"
+      },
+      {
+        "role": "assistant",
+        "content": "Ask for help"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E09_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sorry. i'm so sorry, judy."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_461.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "cease fire! cease fire!"
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E01_446.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this is a very good plan."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E14_477.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no, you don't get a gift card for every stupid little army man."
+      },
+      {
+        "role": "assistant",
+        "content": "Oppose"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_308.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "these people, they're evil."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_535.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "and crestwood came around... hey!"
+      },
+      {
+        "role": "assistant",
+        "content": "Greet"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_204.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i once ate a pencil 'cause i thought it was chocolate."
+      },
+      {
+        "role": "assistant",
+        "content": "Joke"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E02_395.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you're hurt."
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_512.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "actually, i really need to get out."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_171.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, they're jordan 11 retro concords."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E16_420.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sandra's sister is useless, and jerry's family members"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E14_139.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it's homemade."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_340.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i just wanted to apologize for earlier."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_459.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thanks."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E14_265.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "see, look at my dress. it's spotless."
+      },
+      {
+        "role": "assistant",
+        "content": "Flaunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_213.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no, you're right. you're right."
+      },
+      {
+        "role": "assistant",
+        "content": "Agree"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_293.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm like a sitting duck in customer service. you have any idea how wet-lipped"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E01_225.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "just a heads up, you might be getting a call"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_96.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "right, yes, yeah, yeah. that's a good- that's a good point."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_425.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "okay, i gotta get going."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_552.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yes, definitely."
+      },
+      {
+        "role": "assistant",
+        "content": "Agree"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E14_152.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i wanna be puma, raised in the jungles of peru"
+      },
+      {
+        "role": "assistant",
+        "content": "Joke"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_315.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "so you either interview amy,or i file a 31-j with kyle robichot."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E14_198.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yup, that was pretty cool of corporate to fix it."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E05_26.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "zephra finally sent over the safety protocols."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E01_208.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thanks."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E14_111.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "but properly distanced, so don't move your chairs."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E01_355.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i appreciate that you bought american!"
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_485.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "what happened with amy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E07_488.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "that is a good point, dina."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_373.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "quick covid safety reminder:"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E02_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this is great, this is healthy, this is--this is--"
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_447.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "or girlfriend, what does she think about all your birds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_561.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "but, uh, we got some more partying to do, folks."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E17_286.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, wow. i look like a hot, glowing stanley tucci."
+      },
+      {
+        "role": "assistant",
+        "content": "Joke"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E02_386.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "make a reservation at ramona's."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_535.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thanks for filling in."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E05_417.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, yeah."
+      },
+      {
+        "role": "assistant",
+        "content": "Agree"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_100.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "not a problem for me."
+      },
+      {
+        "role": "assistant",
+        "content": "Flaunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E04_89.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, hey, amy."
+      },
+      {
+        "role": "assistant",
+        "content": "Greet"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_361.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it's the parents you want to impress"
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E20_25.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you gotta show her these before you dump her."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_535.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no, you know what? uh, everything's not all right."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_436.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "uh, sandra, can you take the lead on that?"
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "halloween surfboard.  it's just stupid!"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E04_291.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you did? aww, thanks, garrett."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E03_326.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "maybe dina shouldn't have brought her loud, dirty birds into work."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E13_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no, no, jurgen steals all my jobs."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_425.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "okay, bo, stop. all right?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_328.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey! i got you a little congratulations gift"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E10_238.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "um--oh, yeah, she is great."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_335.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "okay, so, uh, st. patrick's day. right."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_23.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "we're--we're not here for the crumbs, you know?"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_397.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "dina, you're gonna be fine."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E05_368.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, my god, you're cheating."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E20_291.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "that's what i thought."
+      },
+      {
+        "role": "assistant",
+        "content": "Agree"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_521.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "so if you see him, call me on the walkie immediately."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E16_156.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i think it's great that we're trying"
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E05_208.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "amy, it's fine. it's just a call."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E01_343.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, you played that very cool, by the way."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E08_290.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "what? no, i didn't take any packages."
+      },
+      {
+        "role": "assistant",
+        "content": "Oppose"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_433.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "whoa, whoa, whoa, whoa, whoa. we don't need to do that, okay?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E03_477.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "uh, so what was it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E04_575.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "just letting you know, i want a divorce."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E20_487.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi amy, it's me."
+      },
+      {
+        "role": "assistant",
+        "content": "Greet"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E02_337.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "how's it going in there?"
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E04_370.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it is. it is a nice parking lot."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E09_436.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "margo's my girlfriend."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_515.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it's worth a try."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E03_112.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, hey, excuse me, man. is this place open?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ask for help"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E12_497.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "uh, don't eat the baby food. the baby food is bad."
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E02_434.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "can you just help me figure out how to play this?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ask for help"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_204.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "protect your future, chica. you could be going places."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_513.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no, girl. you won."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_472.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i was actually pretty upset about it. i stewed outside for hours."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_250.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "look, i don't understand why everybody wants to talk everything to death. to talk everything to death."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E04_595.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, excuse me, sir- can i get this in a--"
+      },
+      {
+        "role": "assistant",
+        "content": "Ask for help"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E11_185.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you're right."
+      },
+      {
+        "role": "assistant",
+        "content": "Agree"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_498.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "that- that i need until end of day!"
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_263.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i have slept 90 minutes in three days."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E06_453.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "your total is $23.87."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_535.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "then i need you to go clean the men's washroom."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E07_275.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh! amy."
+      },
+      {
+        "role": "assistant",
+        "content": "Greet"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_251.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "why don't we pick out items for each other?"
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_56.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "cheyenne was right. i'm a screwup."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_383.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "well, we don't allow street performers out here"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_237.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sorry, this is where we're storing"
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_437.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you should never joke about bombs."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_506.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thanks for stopping by."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E09_484.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "they ride us till we drop and then immediately sell our ass meat."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E07_408.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "we raised the wage!"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_552.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "that's state-of-the-art wireless vr."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_294.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "he's obviously toxic american masculinity."
+      },
+      {
+        "role": "assistant",
+        "content": "Taunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_22.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "but lady is on my last nerve today."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E04_67.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "so you may have heard about the new ownership, but we're still cloud 9"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, browsing's for cowards, dude!"
+      },
+      {
+        "role": "assistant",
+        "content": "Taunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_219.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "or--or--or put them in, like, a science lab, you know?"
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_145.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i mean, i applaud you for trying"
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_150.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, nice to have you, man."
+      },
+      {
+        "role": "assistant",
+        "content": "Greet"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_511.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no one moved product like me back at sturgis & sons."
+      },
+      {
+        "role": "assistant",
+        "content": "Flaunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_47.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "we'll consider that. thank you."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_226.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "dan wants to put in a  famous glasses in history  display."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_88.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "wait, there's one more i want you to try."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_339.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i want to make you a manager."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E14_328.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i've heard it five times."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E14_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "maybe he's afraid of heights. put him on the floor."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_35.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, okay. all right, look."
+      },
+      {
+        "role": "assistant",
+        "content": "Agree"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_308.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this isn't even a break. this is just... unofficial break room time."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_123.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, yeah, sure."
+      },
+      {
+        "role": "assistant",
+        "content": "Agree"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_568.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "and terrence, you stole $40 billion"
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E10_419.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, i haven't sold, like, anything today."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E03_128.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "the--the case is closed. you can't reopen the case."
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E08_145.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "why? glenn, what were you thinking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_525.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "tony!"
+      },
+      {
+        "role": "assistant",
+        "content": "Greet"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E21_142.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it's just, it feels silly for me to be giving a speech"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E17_267.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you've got like a- like a post-pregnancy glow."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E06_43.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "her hair looks like spaghetti that's been left in the pot."
+      },
+      {
+        "role": "assistant",
+        "content": "Taunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E06_420.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you stay right here."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_423.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "and you're really good at holding things."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E16_117.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm sorry. i tried."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E14_25.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm sorry, cheyenne. gecko lady's weirder."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E20_127.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "we should be talking about actual issues."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E03_474.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you don't have to be embarrassed."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_196.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "the worst part about this is that colleen wins again."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E11_473.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i really hate her."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E13_497.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i budgeted six shrimp per person, so go to town."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E17_287.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "where's my order? i need that washing machine."
+      },
+      {
+        "role": "assistant",
+        "content": "Ask for help"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_329.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sorry, buddy. not you. you look totally normal."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E16_148.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "but you are gonna be fine."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_530.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i order three jars of pumpkin spice salsa an hour ago, and i've been waiting in my car."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_373.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "not today. look, i'm sorry about amy too."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_573.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "and the sound quality's full  garbagio."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_159.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i have to fix it before maya sees."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_321.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "glenn, apologize to the car i dented."
+      },
+      {
+        "role": "assistant",
+        "content": "Arrange"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_504.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "are you okay?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E07_541.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "garrett can do anything."
+      },
+      {
+        "role": "assistant",
+        "content": "Taunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E08_136.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i was the best salesperson in the store."
+      },
+      {
+        "role": "assistant",
+        "content": "Flaunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_51.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this isn't the company i signed up to work for after they drove my family hardware store out of business."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E09_558.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "eric, i told you, you can't just let anybody into my house."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_79.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "he brings that up a lot. i'm sorry."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E20_505.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "everything all right?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E17_384.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sorry, just a little nervous."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E08_60.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, they still have some!"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E01_144.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i work here 16 to 19 hours a day, so i'm missing a lot of time with her."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E13_129.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "he's lying right now because he stole the stuff."
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_517.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm pretty good at hiding things."
+      },
+      {
+        "role": "assistant",
+        "content": "Flaunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E09_306.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "my husband's being such a b-munch right now."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_145.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "okay, bye."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E16_177.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no, no, no, janet, don't hang up."
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E10_281.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "attention cloud 9 shoppers and employees. i, uh--i just wanted to take this moment"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E14_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, it's nice."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_113.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "they're not really known for their customer service."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E14_353.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "well, then let's all stop annoying each other"
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E12_394.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "that i actually ended up suppressing votes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flaunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E04_515.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it's not cool, it's not funny, and it's starting to make people uncomfortable."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E16_243.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "thank you."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_578.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm doing this new curbside thing."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_136.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "well, i really need ice cream cones."
+      },
+      {
+        "role": "assistant",
+        "content": "Ask for help"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E10_422.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you know, it might be nice for parker to get some"
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_190.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "good. are you sick?"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E16_329.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "the reason i'm asking is we don't accept your insurance."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E05_156.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i've got an idea. fire her ass."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_391.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, so what's the latest with operation"
+      },
+      {
+        "role": "assistant",
+        "content": "Care"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_64.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, that's really great."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E09_332.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "ugh. what a waste of money."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_315.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "you're satan workers!"
+      },
+      {
+        "role": "assistant",
+        "content": "Taunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E01_447.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "cindy, i'm gonna do that right now."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E01_432.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "and unfortunately, it is supposed to rain."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E15_529.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "it makes about as much sense"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E09_368.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm just gonna be a good old-fashioned cowboy."
+      },
+      {
+        "role": "assistant",
+        "content": "Joke"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "he's just a wuss who's still afraid of his parents."
+      },
+      {
+        "role": "assistant",
+        "content": "Taunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E07_334.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "wow. cool shirts."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_136.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sorry i'm late. sorry."
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E06_35.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "is how a man manages to make it to 60 without hitting puberty."
+      },
+      {
+        "role": "assistant",
+        "content": "Taunt"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_106.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "anyway, thank you for coming and talking to me."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_126.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "like, you need to communicate better."
+      },
+      {
+        "role": "assistant",
+        "content": "Advise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E03_320.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "love the socks, by the way. so thoughtful."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S06_E10_257.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "no, no, no, it's called multi-level marketing."
+      },
+      {
+        "role": "assistant",
+        "content": "Oppose"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E12_129.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this display's my masterpiece right here."
+      },
+      {
+        "role": "assistant",
+        "content": "Introduce"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E07_554.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "how am i supposed to find $27,000 worth of stuff to repair in one day? there's just not that much stuff that's broken!"
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E14_169.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "yeah, it just takes practice."
+      },
+      {
+        "role": "assistant",
+        "content": "Comfort"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E14_109.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "that was- good breakthrough."
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S04_E03_413.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "this is great!"
+      },
+      {
+        "role": "assistant",
+        "content": "Praise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_80.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey, you've got a thing coming up."
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E13_213.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "amy, us men of the store are tired of taking orders from a woman."
+      },
+      {
+        "role": "assistant",
+        "content": "Complain"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E11_526.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "sandra, you have to stop."
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E17_353.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i mean, i do kind of have to go."
+      },
+      {
+        "role": "assistant",
+        "content": "Leave"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_366.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oh, okay, well, yeah. don't--do not give him that."
+      },
+      {
+        "role": "assistant",
+        "content": "Prevent"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E18_395.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "guys, i sent carol to lunch so that we could talk about"
+      },
+      {
+        "role": "assistant",
+        "content": "Inform"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E19_389.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "i'm sorry, garrett"
+      },
+      {
+        "role": "assistant",
+        "content": "Apologise"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E08_90.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "your fault because the two of you don't know"
+      },
+      {
+        "role": "assistant",
+        "content": "Criticize"
+      }
+    ],
+    "videos": [
+      "/home/lab00/hjh/dataset/MIntRec/video/S05_E09_540.mp4"
+    ]
+  }
+]

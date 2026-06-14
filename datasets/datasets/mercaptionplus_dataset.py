@@ -17,10 +17,9 @@ from nano_emox.conversation.conversation_video import Conversation,SeparatorStyl
 from nano_emox.datasets.datasets.base_dataset import BaseDataset
 from nano_emox.processors.video_processor import ToTHWC, ToUint8, load_video, load_face
 from nano_emox.models.ImageBind.data import load_audio, transform_audio
-from toolkit.utils.functions import string_to_list
+from nano_emox.utils.functions import string_to_list
 
-import config
-
+from nano_emox import config
 # 要让模型同时支持audio, video, text三部分输入信息才行
 class MERCaptionPlus_Dataset(BaseDataset):
     def __init__(self, vis_processor=None, txt_processor=None, img_processor=None,
