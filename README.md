@@ -69,7 +69,7 @@ conda activate nanoemox
 ### Datasets
 
 - **For training**:
-  - [MER-Caption+](https://github.com/zeroQiaoba/AffectGPT): Large-scale descriptive emotion dataset with 115K samples and 2K+ fine-grained emotion categories
+  - [MER-Caption+](https://github.com/zeroQiaoba/AffectGPT): Large-scale descriptive emotion dataset caption from MER2025
   - [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D): Crowd-sourced emotional multimodal actors dataset with 7,442 clips (IEEE TAC 2014)
   - [M3ED](https://github.com/AIM3-RUC/RUCM3ED): Multi-modal multi-scene multi-label emotional dialogue dataset in Chinese (ACL 2022)
   - [CAER](https://caer-dataset.github.io/): Context-aware emotion recognition dataset with 13K+ annotated videos (ICCV 2019)
@@ -77,7 +77,9 @@ conda activate nanoemox
   - [MIntRec](https://github.com/thuiar/MIntRec): Multimodal intent recognition dataset (ACM MM 2022)
   - [MIntRec2.0](https://github.com/thuiar/MIntRec2.0): Large-scale multimodal intent dataset with 15K samples and 30 intent classes (ICLR 2024)
   - [AvaMERG](https://avamerg.github.io/): Avatar-based multimodal empathetic response generation dataset (WWW 2025)
-  Place training data under `data/` directory.
+  
+  Place training data under `data/` directory, And modify the path of the data in the configuration file `config.py`.
+  
 - **For evaluation**: Benchmarks from [MER-UniBench](https://github.com/zeroQiaoba/AffectGPT), including:
   - MER2023, MER2024, MELD, IEMOCAP, CMU-MOSI, CMU-MOSEI, SIMS, SIMSv2 (emotion recognition & sentiment analysis)
   - [MIntRec](https://github.com/thuiar/MIntRec), [MIntRec2.0](https://github.com/thuiar/MIntRec2.0) (multimodal intention recognition)
@@ -85,7 +87,7 @@ conda activate nanoemox
 
 ### Training
 
-- **Phase 1**: Modality alignment
+- **Phase 1**: Modality alignment, these two steps are independent and can be trained simultaneously
   ```bash
   CUDA_VISIBLE_DEVICES=0 python -u train.py --cfg-path=configs/phase1_1.yaml
   CUDA_VISIBLE_DEVICES=0 python -u train.py --cfg-path=configs/phase1_2.yaml
