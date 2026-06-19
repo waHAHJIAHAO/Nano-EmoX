@@ -103,13 +103,14 @@ conda activate nanoemox
 
 ### Inference
 
-- **Inference on AVAMERG**:
+- **Inference on MerUniBench** with emotion analysis&recognition:
   ```bash
-  CUDA_VISIBLE_DEVICES=1 python -u inference_hybird.py \
-    --zeroshot --dataset='avamerg' \
+  CUDA_VISIBLE_DEVICES=0 python -u inference_hybird.py \
+    --zeroshot --dataset='merunibench' \
     --cfg-path=configs/phase3.yaml \
-    --options "inference.test_epochs=30-60" "inference.skip_epoch=5" \
-    --outside_face_or_frame
+    --options "inference.test_epochs=40-60" \
+    --outside_face_or_frame multiface_audio_face_frame_text \
+    --emotion_reason_inference
   ```
 - **Inference on EMER (OV-MERD)** with emotion reason inference:
   ```bash
@@ -119,6 +120,23 @@ conda activate nanoemox
     --options "inference.test_epochs=55-60" \
     --outside_face_or_frame multiface_audio_face_frame_text \
     --emotion_reason_inference
+  ```
+  - **Inference on MIntrec1.0/2.0** with intent recognition:
+  ```bash
+  CUDA_VISIBLE_DEVICES=0 python -u inference_hybird.py \
+    --zeroshot --dataset='mintrec' \
+    --cfg-path=configs/phase3.yaml \
+    --options "inference.test_epochs=55-60" \
+    --outside_face_or_frame multiface_audio_face_frame_text \
+    --emotion_reason_inference
+  ```
+- **Inference on AVAMERG**:
+  ```bash
+  CUDA_VISIBLE_DEVICES=1 python -u inference_hybird.py \
+    --zeroshot --dataset='avamerg' \
+    --cfg-path=configs/phase3.yaml \
+    --options "inference.test_epochs=30-60" "inference.skip_epoch=5" \
+    --outside_face_or_frame
   ```
 
 ### Evaluation
