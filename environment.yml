@@ -596,4 +596,3 @@ dependencies:
       - zarr==2.18.3
       - zhon==2.1.1
       - zipp==3.20.2
-prefix: /home/user/anaconda3/envs/affectgpt
