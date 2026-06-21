@@ -20,7 +20,7 @@
 
 ## Unified Emotion Intelligence
 
-our model is first compact (2.2B) emotion intelligence videoLM. It integrates a pretrained LLM with modality-specific encoders and experts-based fusion encoder to handle a broad spectrum of affective tasks in one model.
+our model is first compact (2.2B) emotion intelligence Multimodel langugage model. It integrates a pretrained LLM with modality-specific encoders and experts-based fusion encoder to handle a broad spectrum of affective tasks in one model.
 
 Nano-EmoX supports six core tasks within one model: 1), Multimodal Sentiment Analysis. 2), Multimodal Emotion Recognition. 3), Open-Vocabulary Multimodal Emotion Recognition. 4), Multimodal Intention Recognition. 5), Emotion Reason Inference. 6), Empathic Response Generation
 
