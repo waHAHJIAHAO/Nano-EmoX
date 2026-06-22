@@ -146,6 +146,10 @@ Specify the config file in `evaluation-scoreonly.py` to select the model for eva
 ```bash
 CUDA_VISIBLE_DEVICES=0 python -u evaluation-scoreonly.py
 ```
+To evaluate the emotional reason inference task, we need an API from OpenAI to call an external model for assessing the quality of the reasoning.
+```bash
+python eval_ovmerd.py --data_root output/ov-merd-eval/your_model_path --openai_key sk-************
+```
 
 ## License
 
