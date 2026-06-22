@@ -258,14 +258,14 @@ def chatgpt_scoring_analyze(score_path, select_names=[], print_flag=True):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_root',  type=str, default="output/ov-merd-eval", help='dataset path')
-    parser.add_argument('--openai_key', type=str, default="sk-3nE3ZDtBePFrQkJnADdYgVibJkcp2VXYyAoj5jBRdoyD6y1P", help='your chatgpt key')
+    parser.add_argument('--openai_key', type=str, default="", help='your chatgpt key')
     parser.add_argument('--debug', action='store_true', default=False, help='whether use debug to limit samples')
     args = parser.parse_args()
     # 初始化OpenAI客户端
     global client
     client = OpenAI(
         api_key=args.openai_key,
-        base_url="https://cn.gptapi.asia/v1" #https://jeniya.top/v1
+        base_url=""
     )
     
     # for clue overlap analysis
