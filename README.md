@@ -103,7 +103,7 @@ conda activate nanoemox
 
 ### Inference
 
-- **Inference on MerUniBench** with emotion analysis&recognition:
+- **Inference on emotion recognition task** with emotion analysis&recognition:
   ```bash
   CUDA_VISIBLE_DEVICES=0 python -u inference_hybird.py \
     --zeroshot --dataset='merunibench' \
@@ -112,7 +112,7 @@ conda activate nanoemox
     --outside_face_or_frame multiface_audio_face_frame_text \
     --emotion_reason_inference
   ```
-- **Inference on EMER (OV-MERD)** with emotion reason inference:
+- **Inference on emotion reason inference task** with emotion reason inference:
   ```bash
   CUDA_VISIBLE_DEVICES=0 python -u inference_hybird.py \
     --zeroshot --dataset='emer' \
@@ -121,7 +121,7 @@ conda activate nanoemox
     --outside_face_or_frame multiface_audio_face_frame_text \
     --emotion_reason_inference
   ```
-  - **Inference on MIntrec1.0/2.0** with intent recognition:
+  - **Inference on intention recognition task** with intent recognition:
   ```bash
   CUDA_VISIBLE_DEVICES=0 python -u inference_hybird.py \
     --zeroshot --dataset='mintrec' \
@@ -130,7 +130,7 @@ conda activate nanoemox
     --outside_face_or_frame multiface_audio_face_frame_text \
     --emotion_reason_inference
   ```
-- **Inference on AVAMERG**:
+- **Inference on empathic response task**:
   ```bash
   CUDA_VISIBLE_DEVICES=1 python -u inference_hybird.py \
     --zeroshot --dataset='avamerg' \
