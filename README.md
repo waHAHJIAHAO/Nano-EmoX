@@ -81,7 +81,7 @@ conda activate nanoemox
   Place training data under `data/` directory, And modify the path of the data in the configuration file `config.py`.
   
 - **For evaluation**: Benchmarks from [MER-UniBench](https://github.com/zeroQiaoba/AffectGPT), including:
-  - MER2023, MER2024, MELD, IEMOCAP, CMU-MOSI, CMU-MOSEI, SIMS, SIMSv2 (emotion recognition & sentiment analysis)
+  - MER2023, MER2024, MELD, IEMOCAP, CMU-MOSI, CMU-MOSEI, SIMS, SIMSv2 (emotion recognition & sentiment analysis), data is available at https://pan.baidu.com/s/1kbfs5pG_hAri0QwvQl-Ecg?pwd=b9vn
   - [MIntRec](https://github.com/thuiar/MIntRec), [MIntRec2.0](https://github.com/thuiar/MIntRec2.0) (multimodal intention recognition)
   - [AvaMERG](https://avamerg.github.io/) (multimodal empathetic response generation)
 
