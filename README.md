@@ -92,11 +92,11 @@ conda activate nanoemox
   CUDA_VISIBLE_DEVICES=0 python -u train.py --cfg-path=configs/phase1_1.yaml
   CUDA_VISIBLE_DEVICES=0 python -u train.py --cfg-path=configs/phase1_2.yaml
   ```
-- **Phase 2**: Train fusion encoder
+- **Phase 2**: Train fusion encoder and adapters. Tip: before this phase training, you need to load phase1 checkpoints, set the ckpts path in the phase2.yaml.
   ```bash
   CUDA_VISIBLE_DEVICES=0 python -u train.py --cfg-path=configs/phase2.yaml
   ```
-- **Phase 3**: End-to-end fine-tuning
+- **Phase 3**: End-to-end fine-tuning llm, adapters and fusion encoder. Please set the phase2 ckpts path in the phase3.yaml before this phase training.
   ```bash
   CUDA_VISIBLE_DEVICES=0 python -u train.py --cfg-path=configs/phase3.yaml
   ```
