@@ -1,4 +1,4 @@
-﻿import os
+import os
 import json
 import random
 import pandas as pd
@@ -7,8 +7,10 @@ from typing import Dict, List, Optional
 
 import torch
 
-from nano_emox.datasets.datasets.base_dataset import BaseDataset
-from nano_emox import config
+from my_affectgpt.datasets.datasets.base_dataset import BaseDataset
+import config
+
+
 class AvaMERG_Dataset(BaseDataset):
     def __init__(self, vis_processor=None, txt_processor=None, img_processor=None,
                  dataset_cfg=None, model_cfg=None):
@@ -22,9 +24,8 @@ class AvaMERG_Dataset(BaseDataset):
             self.needed_data = self.get_needed_data(self.face_or_frame)
             print(self.needed_data)
         
-        # AvaMERG数据集的标签类型候选
         self.label_type_candidates = ['empathic_response_with_coe','emotion_recognition']
-        
+        self.candidate_labels = "conflicted,sadness,weary,upset,frustrated,disappointment,uneasy,confused,stressed,burdened,worry,nervous,confusion,helpless,overwhelm,surprised,proud,lonely,guilty,hopeful,anxious,nostalgic,content,caring,ashamed"
         # 情感映射字典（基于AvaMERG原始代码的emotion projection）
         self.ed_emotion_projection = {
             'conflicted': 'anxious', 'vulnerability': 'afraid', 'helplessness': 'afraid',
@@ -157,6 +158,17 @@ class AvaMERG_Dataset(BaseDataset):
             prompt = f"###Human: We uniformly sample raw frames from the video: <Video><FrameHere></Video>. " \
                     + f"The dialogue history is: <Dialogue History>{subtitle}</Dialogue History>. " \
                     + f"Now here is the dialogue context:\n. {user_message} ###Assistant: "
+        elif face_or_frame == 'face_text': # (face, text)
+            assert subtitle is not None
+            prompt =  f"###Human: We uniformly extract facial informations from video: <Video><FaceHere></Video>. "  \
+                    + f"The dialogue history is: <Dialogue History>{subtitle}</Dialogue History>. " \
+                    + f"Now here is the dialogue context:\n. {user_message} ###Assistant: "
+        elif face_or_frame == 'face_frame_text':
+            assert subtitle is not None
+            prompt = f"###Human: we uniformly sample raw frames from the video: <Video><FrameHere></Video>. "  \
+                    + f"Meanwhile, We uniformly extract facial informations from video: <Video><FaceHere></Video>. "  \
+                    + f"The dialogue history is: <Dialogue History>{subtitle}</Dialogue History>. " \
+                    + f"Now here is the dialogue context:\n. {user_message} ###Assistant: "
 
         elif face_or_frame == 'audio_text': # (audio, text)
             assert subtitle is not None
@@ -211,22 +223,21 @@ class AvaMERG_Dataset(BaseDataset):
         full_audio_fp = os.path.join(self.wav_root, audio_filename)
         return full_audio_fp
     
-# inference methods
+# inference methods 只获取每个conversation中的最后一个turn作为测试集
     def _get_testvideo_path(self,sample):
         """返回每轮speaker的视频文件路径"""
         video_filename = f"{sample['name']}.mp4"
-        full_video_fp = os.path.join("data/AvaMERG/test_video", video_filename)
+        full_video_fp = os.path.join("/home/lab00/hjh/dataset/AvaMERG/test_video", video_filename)
         return full_video_fp
 
     def _get_testaudio_path(self,sample):
         """返回每轮speaker的音频文件路径"""
         audio_filename = f"{sample['name']}.wav"
-        full_audio_fp = os.path.join(config.DATA_DIR.get("avamerg_test_audio", "data/AvaMERG/test_audio"), audio_filename)
+        full_audio_fp = os.path.join("/home/lab00/hjh/dataset/AvaMERG/test_audio", audio_filename)
         return full_audio_fp
 
     def read_test_names(self):
         """读取测试集样本名称列表, 格式: dia{conversation_id}utt{turn_id}_{speaker_id}
-        只获取每个conversation中的最后一个turn作为测试集
         """
         # 读取测试集标注文件
         test_ann_path = os.path.join(config.DATA_DIR[self.dataset], 'v_test_v5_0.json')
@@ -250,7 +261,6 @@ class AvaMERG_Dataset(BaseDataset):
     
     def get_test_name2gt(self):
         """获取测试集样本名称到真实标签的映射
-        只获取每个conversation中的最后一个turn作为测试集
         """
         # 读取测试集标注文件
         test_ann_path = os.path.join(config.DATA_DIR[self.dataset], 'v_test_v5_0.json')
@@ -282,7 +292,6 @@ class AvaMERG_Dataset(BaseDataset):
     @property
     def name2subtitle(self):
         """获取样本名称到对话记录的映射
-        只获取每个conversation中的最后一个turn作为测试集
         """
         name2subtitle = {}
         # 读取测试集标注文件
@@ -310,7 +319,6 @@ class AvaMERG_Dataset(BaseDataset):
     @property    
     def name2currentInput(self):
         """获取样本名称到当前输入的映射
-        只获取每个conversation中的最后一个turn作为测试集
         """
         name2currentInput = {}
         test_ann_path = os.path.join(config.DATA_DIR[self.dataset], 'v_test_v5_0.json')
@@ -338,7 +346,6 @@ class AvaMERG_Dataset(BaseDataset):
     @property    
     def name2context(self):
         """获取样本名称到上下文的映射
-        只获取每个conversation中的最后一个turn作为测试集
         """
         name2context = {}
         test_ann_path = os.path.join(config.DATA_DIR[self.dataset], 'v_test_v5_0.json')

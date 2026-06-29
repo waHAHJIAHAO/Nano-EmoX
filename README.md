@@ -168,6 +168,5 @@ If this work has been helpful or inspiring to your research, please consider cit
     year      = {2026},
     pages     = {22986-22997}
 }
-
 ```
 
