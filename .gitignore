@@ -48,7 +48,6 @@ ENV/
 *~
 .DS_Store
 Thumbs.db
-output/
 cache/
 *.pth
 *.pt
@@ -57,3 +56,4 @@ cache/
 *.pkl
 *.npz
 *.npy
+.gitignore
