@@ -57,7 +57,7 @@ conda activate nanoemox
 ```
 
 ### Model Weights
-
+Download the original weights of these models to the "models" folder.
 | Model Name                                                                          |   Model Type   |
 | :---------------------------------------------------------------------------------- | :------------: |
 | [clip-vit-large-patch14](https://huggingface.co/openai/clip-vit-large-patch14)      | Visual Encoder |
@@ -84,6 +84,8 @@ conda activate nanoemox
   - MER2023, MER2024, MELD, IEMOCAP, CMU-MOSI, CMU-MOSEI, SIMS, SIMSv2 (emotion recognition & sentiment analysis), data is available at https://pan.baidu.com/s/1kbfs5pG_hAri0QwvQl-Ecg?pwd=b9vn
   - [MIntRec](https://github.com/thuiar/MIntRec), [MIntRec2.0](https://github.com/thuiar/MIntRec2.0) (multimodal intention recognition)
   - [AvaMERG](https://avamerg.github.io/) (multimodal empathetic response generation)
+
+After downloading the data, remember to modify the config.py file to ensure the path is correct.
 
 ### Training
 
