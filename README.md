@@ -4,8 +4,8 @@
 
 <a href="https://arxiv.org/pdf/2603.02123">
 <img src='https://img.shields.io/badge/Paper-Arxiv-orange' alt='Paper PDF'></a>
-<a href="https://huggingface.co/datasets/">
-<img src='https://img.shields.io/badge/Dataset-HuggingFace-yellow' alt='Dataset'></a>
+<a href="https://huggingface.co/Jiaha0Hu4ng/Nano-EmoX">
+<img src='https://img.shields.io/badge/Dataset-HuggingFace-yellow' alt='Model'></a>
 <a href="#">
 <img src='https://img.shields.io/badge/Model-ModelScope-blue' alt='Model'></a>
 
