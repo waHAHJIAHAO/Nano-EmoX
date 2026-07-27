@@ -6,8 +6,8 @@
 <img src='https://img.shields.io/badge/Paper-Arxiv-orange' alt='Paper PDF'></a>
 <a href="https://huggingface.co/Jiaha0Hu4ng/Nano-EmoX">
 <img src='https://img.shields.io/badge/Model-HuggingFace-yellow' alt='Model'></a>
-<a href="#">
-<img src='https://huggingface.co/datasets/Jiaha0Hu4ng/EmoWorld-130K' alt='Dataset'></a>
+<a href='https://huggingface.co/datasets/Jiaha0Hu4ng/EmoWorld-130K'">
+<img src='https://img.shields.io/badge/Dataset-HuggingFace-yellow' alt='Dataset'></a>
 
 </div>
 
