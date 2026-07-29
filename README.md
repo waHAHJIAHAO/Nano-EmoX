@@ -16,7 +16,7 @@
 - [x] release paper
 - [x] release project codes
 - [x] training and evaluation scripts
-- [ ] model weights
+- [x] model weights
 
 ## Unified Emotion Intelligence
 
