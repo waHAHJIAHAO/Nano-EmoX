@@ -131,5 +131,5 @@ DEFAULT_AUDIO_PATCH_TOKEN = '<AudioHere>'
 DEFAULT_FRAME_PATCH_TOKEN = '<FrameHere>'
 DEFAULT_FACE_PATCH_TOKEN  = '<FaceHere>'
 DEFAULT_MULTI_PATCH_TOKEN = '<MultiHere>'
-TASK_ID = ['[Analysis]','[Recognition]','[Inference]','[Recogn_OpenVocabulary]','[Interaction]','[Clue]']
+TASK_ID = ['[Intent]','[Recognition]','[Inference]','[Recogn_OV]','[Interaction]']
 IGNORE_INDEX = -100
