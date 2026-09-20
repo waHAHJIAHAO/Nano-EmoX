@@ -12,7 +12,11 @@
 </div>
 
 ⭐ If our project helps you, please give us a star on GitHub to support us!
-## Todo List
+
+## News
+We release mode, code, dataset, paper of our new work: OneEmo.
+
+## Todo
 
 - [x] release paper
 - [x] release project codes
