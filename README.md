@@ -14,7 +14,7 @@
 ⭐ If our project helps you, please give us a star on GitHub to support us!
 
 ## News
-We release mode, code, dataset, paper of our new work: OneEmo.
+We release model, code, dataset, paper of our new work: OneEmo.
 
 ## Todo
 
