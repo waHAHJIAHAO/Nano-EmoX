@@ -544,10 +544,10 @@ class MultiScaleCrossModalFusion(nn.Module):
         self.ffns = nn.ModuleList([
             nn.Sequential(
                 nn.LayerNorm(hidden_dim),
-                nn.Linear(hidden_dim, hidden_dim),
+                nn.Linear(hidden_dim, hidden_dim*4),
                 nn.GELU(),
                 nn.Dropout(dropout),
-                nn.Linear(hidden_dim, hidden_dim)
+                nn.Linear(hidden_dim*4, hidden_dim)
             )
             for _ in range(3)
         ])
