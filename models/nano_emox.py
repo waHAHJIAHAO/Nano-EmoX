@@ -12,8 +12,6 @@ from nano_emox.models.tokenizer import load_tokenizer_from_LLM
 from nano_emox.models.MoE_fusion import DenseMoEFusion,MultiScaleCrossModalFusion
 from nano_emox.models.encoder import *
 from nano_emox.models.faceXencoder import create_facial_encoder_fxformer
-from nano_emox.models.MeGraphAU.facial_encoder import create_facial_encoder
-from nano_emox.models.MeGraphAU.facial_encoder_insightface import create_facial_encoder_insightface
 from nano_emox import config
 @registry.register_model("nano_emox")
 class NanoEmoX(Blip2Base):
