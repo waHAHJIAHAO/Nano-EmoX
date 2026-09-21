@@ -14,7 +14,7 @@
 ⭐ If our project helps you, please give us a star on GitHub to support us!
 
 ## News
-We release model, code, dataset, paper of our new work "OneEmo".
+[2026.08.06] We release model, code, dataset, paper of our new work "OneEmo".
 
 ## Todo
 
